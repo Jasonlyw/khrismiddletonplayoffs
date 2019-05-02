@@ -1,2 +1,2 @@
-# khrismiddletonplayoffs
-Does Khris Middleton really plays better facing the Celtics?
+# Does Khris Middleton really plays better when he faces the Celtics?
+

@@ -4,4 +4,4 @@ After watching Khris Middleton torching Celtics defenders in the playoffs in two
 
 [Kaggle version of project] (https://www.kaggle.com/jasonli1030/khris-middleton)
 
-![alt text] (https://github.com/Jasonlyw/khrismiddletonplayoffs/blob/master/diagrams/percentage.png)
+![alt text](diagrams/ppg.png)
